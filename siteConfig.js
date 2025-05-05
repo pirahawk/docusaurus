@@ -26,8 +26,8 @@ const siteConfig = {
   // as the package.json file for now
   customDocsPath: path.basename(__dirname) + '/docs',
 
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
+  title: 'Test Vercel Docusaurus Site', // Title for your website.
+  tagline: 'A website for testing vercel',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
