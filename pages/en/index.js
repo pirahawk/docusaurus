@@ -123,8 +123,8 @@ class Index extends React.Component {
       <Block background="dark">
         {[
           {
-            content:
-              'This is another description of how this project is useful',
+            content: 
+              'This is a new vercel project. It is a simple project to test out the docusaurus framework.',
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: 'right',
             title: 'Description',
