@@ -26,7 +26,7 @@ const siteConfig = {
   // as the package.json file for now
   customDocsPath: path.basename(__dirname) + '/docs',
 
-  title: 'Test Vercel Docusaurus Site', // Title for your website.
+  title: 'Test Vercel Docusaurus Site V2', // Title for your website.
   tagline: 'A website for testing vercel',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
